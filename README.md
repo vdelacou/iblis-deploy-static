@@ -4,7 +4,7 @@ _**Deploy Multi-Language Static HTML on CDN.**_
 
 **_With Serverless Framework and AWS CloudFront. Delete Cache on redeploying and force redirect according to browser language_**
 
-Repository for this medium article: [Deploy Multi-Language Static HTML on CDN](https://medium.com/@vdelacou/serverless-graphql-with-aws-appsync-and-dynamodb-3dcbe29f026e)
+Repository for this medium article: [Deploy Multi-Language Static HTML on CDN](https://medium.com/@vdelacou/deploy-multi-language-static-html-on-cdn-a5dd7e229146)
 
 Please read the article if you have any questions
 
