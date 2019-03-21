@@ -42,7 +42,15 @@ Install the [AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-
 
 Then Launch
 
+`git clone https://github.com/vdelacou/iblis-deploy-static`
+
+`cd iblis-deploy-static`
+
+`chmod +x deploy.sh`
+
 `./deploy.sh`
+
+You can replace the content of the src folder with your site (HTML, CSS, JS) and also rename the project in serverless.yml (don't forget to change the lambda function languageRedirectCloudFront.js according to your need)
 
 ## Deploy with BitBucket Pipelines
 
