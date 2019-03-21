@@ -4,7 +4,7 @@ pipelines:
   default:
     - step:
         name: Deploy
-        deployment: dev
+        deployment: test
         caches:
           - node
         script:
