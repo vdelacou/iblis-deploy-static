@@ -23,6 +23,9 @@ I love CloudFront, but I was always frustrated with 2 things, that I can do with
 - Automatic Cloudfront set-up with policy access to the bucket
 - Set up of AWS lambda with CloudFront Egde
 - Redirect user according to browser language
+- Copy the file to S3 Bucket
+- Clean S3 Object Cache when redeploy
+- Invalidate CDN Distribution when redeploy
 
 ## Library and Tools
 
