@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "version": "0.0.0",
+  "dependencies": {},
+  "devDependencies": {
+    "@silvermine/serverless-plugin-cloudfront-lambda-edge": "2.1.1"
+  },
+  "scripts": {}
+}
